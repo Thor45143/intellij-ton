@@ -44,4 +44,4 @@ Based on [The Open Network](https://ton.org)
 [plugin-version-svg]: https://img.shields.io/jetbrains/plugin/v/23382-ton.svg
 [plugin-downloads-svg]: https://img.shields.io/jetbrains/plugin/d/23382-ton.svg
 [ton-svg]: https://img.shields.io/badge/Based%20on-TON-blue
-[ton]: https://ton.org
+[ton]: https://ton.org 
